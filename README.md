@@ -1,7 +1,18 @@
-# MarkdownAssig
-Instructions written with Markdown
+
 # How to shuffle a Deck of Cards
-A deck of cards can be used for a variety of different games, most of the time it is necessary to mix up the cards to ensure random order
+A deck of cards can be used for a variety of different games, most of the time it is necessary to mix up the cards to ensure random order. These instructions
+should help you learn one of the many methods for shuffling cards.
+
+## Theory
+* This method of shuffling cards works by moving variable portions of the deck towards the front of the deck resulting in a unorganized order
+of the cards
+
+## Warning
+**Card Edges can cause minor cuts and possible damage to eyes**
+
+## Materials Required
+* A deck of cards
+
 ## Instructions
 1. Begin with a Deck of unshuffled cards
   
